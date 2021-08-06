@@ -1,5 +1,7 @@
 import styled from 'styled-components'
-export const Section = styled.section`
+import {motion} from 'framer-motion'
+
+export  const Section = styled.section`
     height: 100vh;
     display: flex;
     justify-content: center;

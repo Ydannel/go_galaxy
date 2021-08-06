@@ -1,4 +1,4 @@
-import Hero from './components/hero'
+import Hero from './components/Hero.jsx'
 function App() {
   return (
     <div className="App">
